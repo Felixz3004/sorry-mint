@@ -25,11 +25,12 @@ function handleForgive() {
     const btnGroup = document.querySelector('.btn-group');
 
     mainEmoji.innerText = '🥰💙';
-    title.innerText = 'ขอบคุณน้าาา';
-    message.innerText = 'เค้าจะรักและดูแลตัวเองให้ดีที่สุดครับ!';
+    title.innerText = 'เย้ๆๆๆๆ';
+    message.innerText = 'พี่จะรักและดูแลตัวมิ้นให้ดีที่สุดเลยยยยยยย!';
     
     successMsg.style.display = 'block';
     btnGroup.style.display = 'none';
     
     document.body.style.backgroundColor = '#dcf0ff';
+
 }
