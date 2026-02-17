@@ -26,7 +26,7 @@ function handleForgive() {
 
     mainEmoji.innerText = '🥰💙';
     title.innerText = 'เย้ๆๆๆๆ';
-    message.innerText = 'พี่จะรักและดูแลตัวมิ้นให้ดีที่สุดเลยยยยยยย!';
+    message.innerText = 'พี่จะรักมิ้นดูแลมิ้นให้ดีที่สุดเลยยยยยยยย!';
     
     successMsg.style.display = 'block';
     btnGroup.style.display = 'none';
@@ -34,3 +34,4 @@ function handleForgive() {
     document.body.style.backgroundColor = '#dcf0ff';
 
 }
+
